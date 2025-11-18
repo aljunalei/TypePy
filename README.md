@@ -19,7 +19,7 @@ Test your knowledge, get instant feedback from the **built-in checker**, and tra
 This application combines three key components:
 
 1.  **Gradio:** Provides the fast, simple web interface.
-2.  **Codegen LLM:** A Large Language Model ([Specify LLM, e.g., CodeLlama, etc.]) generates the base Python code.
+2.  **Codegen LLM:** A Large Language Model (Salesforce/codegen-350M-multi) generates the base Python code.
 3.  **Python `tokenize` Algorithm:** This standard library module is used to parse the AI-generated code, identify tokens to turn into "blanks," and validate the user's input.
 
 ## User Interface
