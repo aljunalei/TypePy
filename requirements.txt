@@ -1,0 +1,7 @@
+# ---- Core Application ----
+gradio
+
+# ---- AI & Machine Learning ----
+# For running the codegen LLM
+transformers
+torch
